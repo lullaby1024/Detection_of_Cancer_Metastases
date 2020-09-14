@@ -1,4 +1,5 @@
 # Detection of Cancer Metastases
+For a detailed walk through of the project, refer to [ADL Final Presentation](https://github.com/lullaby1024/Detection_of_Cancer_Metastases/blob/master/ADL%20Final%20Project%20Presentation.pdf).
 
 ## Goal
 - Given a gigapixel pathology image (slide), the goal is to classify if the image contains tumor and localize the tumors for a pathologist’s review.
